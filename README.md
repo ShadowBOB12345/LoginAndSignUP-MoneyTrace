@@ -47,4 +47,4 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ShadowBOB12345/LoginAndSignUP-MoneyTrace/tree/main
